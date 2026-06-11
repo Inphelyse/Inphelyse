@@ -1,7 +1,8 @@
-# Hi, I'm Shinya! 👋
+# Hi, I'm Shinya Tamaki! 👋
 
-### First-Year Computer Science Student @ Cebu Institute of Technology – University
-> An analytical ecosystem focused on foundational computing, components scalability, and systems logic.
+### First-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
+> Aspiring Full-Stack Developer 😄.
+> If you found me, I'm most likely building an website!
 
 ---
 
