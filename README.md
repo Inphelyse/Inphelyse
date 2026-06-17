@@ -1,8 +1,7 @@
 # Hi, I'm Shinya Tamaki! 👋
 
 ### First-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
-> Aspiring Full-Stack Developer 😄.
-> If you found me, I'm most likely building an website!
+> Aspiring Kernel Contributor 😄.
 
 ---
 
