@@ -1,7 +1,7 @@
 # Hi, I'm Shinya Tamaki! 👋
 
 ### First-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
-> Aspiring Kernel Contributor 😄.
+
 
 ---
 
