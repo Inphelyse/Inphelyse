@@ -1,6 +1,6 @@
 # Hi, I'm Shinya Tamaki! 👋
 
-### First-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
+### Second-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
 
 
 ---
