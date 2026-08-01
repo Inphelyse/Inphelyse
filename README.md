@@ -26,7 +26,7 @@
 
 ## Git Metrics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Inphelyse&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=f59e0b&text_color=94a3b8)](https://github.com/anuraghazra/github-readme-stats)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?Inphelyse=HwangTaehyun)
 
 
 ## Connect With Me
