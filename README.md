@@ -18,7 +18,9 @@
 ---
 
 ## Git Metrics
-![GitTulkun Whale](https://raw.githubusercontent.com/Inphelyse/Inphelyse/output/tulkun.gif)
+<p align="center">
+  <img src="https://github.com/Inphelyse/Inphelyse/blob/output/tulkun.gif?raw=true" alt="GitTulkun Whale" />
+</p>
 
 
 ## Connect With Me
