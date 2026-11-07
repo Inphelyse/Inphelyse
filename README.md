@@ -19,9 +19,10 @@
 
 ## Git Metrics
 <p align="center">
-  <img src="https://github.com/Inphelyse/Inphelyse/blob/output/tulkun.gif?raw=true" alt="GitTulkun Whale" />
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
+  </a>
 </p>
-
 
 ## Connect With Me
 
