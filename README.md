@@ -1,3 +1,7 @@
+# Hi, I'm Shinya Tamaki! 👋
+
+### Second-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
+
 ## Languages & Technologies
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
