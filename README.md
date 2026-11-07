@@ -1,10 +1,3 @@
-# Hi, I'm Shinya Tamaki! 👋
-
-### Second-Year Computer Science Student @ Cebu Institute of Technology – University 🇵🇭
-
-
----
-
 ## Languages & Technologies
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,9 +19,10 @@
 
 ## Git Metrics
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?Inphelyse=HwangTaehyun)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Inphelyse/Inphelyse/main/tulkun.gif" alt="GitTulkun Whale" />
+</p>
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
