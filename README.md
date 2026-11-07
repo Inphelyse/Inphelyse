@@ -20,9 +20,6 @@
 ## Git Metrics
 ![GitTulkun Whale](tulkun.gif)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Inphelyse/Inphelyse/main/tulkun.gif" alt="GitTulkun Whale" />
-</p>
 
 ## Connect With Me
 
